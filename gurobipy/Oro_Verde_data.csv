@@ -1,0 +1,4 @@
+TreeType,SequestrationRate,WaterRequirement,Width,SurvivalRate,SeedlingCost,SeedlingsAvailable
+Maple,4.3,76.0,130.0,0.7,5.4,1000.0
+Elm,3.7,48.0,3600.0,0.6,3.2,500.0
+Spruce,2.8,34.0,400.0,0.8,4.5,1500.0
