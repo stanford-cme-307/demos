@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*~
+*conflicted copy*
+* backup *.jl
+*.lp
+*.ilp
+
+# Notebook exports and superseded experiments
+/*.ipynb.jl
+/*-gpt.jl
+/*-gpt.py
+/lasso.py
+/pmedians.jl
+/qn-byhand.jl
